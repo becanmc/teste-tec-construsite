@@ -4,7 +4,9 @@
 
 ## Estrutura da pasta
 Questão 2/
+
 ├─ Questao-02.php
+
 └─ README.md
 
 ## Localização da resposta
