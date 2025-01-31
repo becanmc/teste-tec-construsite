@@ -6,7 +6,6 @@ Este projeto contém várias questões, cada uma com seu próprio README detalha
 - [Questão 1](Questão%201/README.md)
 - [Questão 2](Questão%202/README.md)
 - [Questão 3](Questão%203/README.md)
-- [Questão 4](Questão%204/README.md)
 
-Cada link leva ao arquivo `README.md` referente à cada questão. Basta clicar para acessar os detalhes de cada uma!
+Cada link leva ao arquivo `README.md` referente a cada questão. Basta clicar para acessar os detalhes de cada uma!
 
