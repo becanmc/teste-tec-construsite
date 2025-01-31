@@ -4,7 +4,9 @@
 
 ## Estrutura da pasta
 Questão 2/
+
 ├─ README.md
+
 └─ SQL_QUESTAO_01.sql
 
 ## Localização das respostas
