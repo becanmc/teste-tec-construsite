@@ -6,17 +6,29 @@
 Questão 3/
 
 ├── components
+
 │   └── logo-construsite-brasil.svg
+
 ├── controller/
+
 │   └── send-email.php
+
 ├── style/
+
 │   └── style.css
+
 ├── vendor/
+
 │   ├── composer/
+
 │   └── phpmailer/
+
 ├─ composer.json
+
 ├─ composer.lock
+
 ├─ index.php
+
 └─ README.md
 
 A pasta é dividida em **4 diretórios**, sendo eles:
